@@ -1,13 +1,11 @@
-import LandingPage from "./components/LandingPage"
-import NavBar from "./components/pages"
-
+import React from "react";
+import LandingPage from "./components/LandingPage";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <NavBar/>
-        <LandingPage/>
+    <div>
+      <header>
+        <LandingPage />
       </header>
     </div>
   );

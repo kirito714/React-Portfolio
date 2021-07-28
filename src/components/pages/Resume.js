@@ -1,4 +1,6 @@
 import React from 'react'
+import './Resume.css'
+import './styles.css'
 
 const Resume = () => {
     return (

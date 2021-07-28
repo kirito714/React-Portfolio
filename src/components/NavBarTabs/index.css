@@ -1,0 +1,13 @@
+a {
+  color: #c5c6c7;
+  padding: 10px;
+  cursor: pointer;
+}
+
+ul {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  list-style-type: none;
+}

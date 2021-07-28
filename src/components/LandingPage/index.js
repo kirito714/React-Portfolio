@@ -5,6 +5,8 @@ import Projects from "../pages/Projects";
 import About from "../pages/AboutMe";
 import Resume from "../pages/Resume";
 import Contact from "../pages/Contact";
+import './index.css';
+
 
 export default function LandingPage() {
   const [currentPage, setCurrentPage] = useState("Home");
