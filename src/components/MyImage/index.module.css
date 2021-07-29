@@ -1,0 +1,13 @@
+.mySelf {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.mySelf img{
+  border-radius: 50%;
+}
+
+.stuffy {
+  background-color: red;
+}
