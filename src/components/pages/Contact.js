@@ -17,7 +17,7 @@ const Contact = () => {
             <img className="devIcon" src={linkedIn} alt="Logo" />
 
             <a
-              class="projectCard"
+              className="projectCard"
               href="https://www.linkedin.com/in/joseph-amador-a37207157/"
               target="_blank" rel="noreferrer noopener"
             >
@@ -28,7 +28,7 @@ const Contact = () => {
             <img className="devIcon" src={github} alt="Logo" />
 
             <a
-              class="projectCard"
+              className="projectCard"
               href="https://github.com/kirito714"
               target="_blank" rel="noreferrer noopener"
             >
@@ -40,7 +40,7 @@ const Contact = () => {
             <img className="devIcon" src={gmail} alt="Logo" />
 
             <a
-              class="projectCard"
+              className="projectCard"
               href="https://mail.google.com/mail"
               target="_blank" rel="noreferrer noopener"
             >

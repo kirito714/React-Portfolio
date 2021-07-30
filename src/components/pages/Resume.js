@@ -15,7 +15,7 @@ const Resume = () => {
             <img className="devIcon" src={googleDrive} alt="Logo" />
 
             <a
-              class="projectCard"
+              className="projectCard"
               href="https://docs.google.com/document/d/1rVuCgf5F-7ZwIur0HFmTtmSuaKAXPBschw1C1CDRT44/edit?usp=sharing"
               target="_blank"
               rel="noreferrer noopener"
