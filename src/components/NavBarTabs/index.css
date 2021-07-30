@@ -10,4 +10,5 @@ ul {
   flex-direction: row;
   justify-content: flex-end;
   list-style-type: none;
+  flex-wrap: wrap;
 }

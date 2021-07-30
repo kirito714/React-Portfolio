@@ -1,17 +1,16 @@
 import React from "react";
-import MyImage2 from './Images/MyImage2.png';
-import indexCss from './index.module.css';
-
+import MyImage2 from "./Images/MyImage2.png";
+import "./index.css"
 
 const MyImage = () => {
-    return (
-        <div className="mySelf">
-            <img  src={MyImage2} alt="Logo"/>
-            <h1 className={indexCss.stuffy}>Fuck</h1>
-        </div>
-    )
-  }
-  
+  return (
+    <div className="mySelf">
+      <div>
+      <img class="mePick" src={MyImage2} alt="Logo" />
+      <h1 className="myName">Joseph Amador</h1>
+      </div>
+    </div>
+  );
+};
 
-
-  export default MyImage;
+export default MyImage;

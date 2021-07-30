@@ -1,3 +1,73 @@
-h1 {
+h1,
+h2,
+p,
+li {
+  color: #c5c6c7;
+  background-color: #45a29e;
+}
+li {
+  font-size: 27px;
+  color: #1f2833;
+}
+
+.bGround {
+  background-color: #45a29e;
+  display: flex;
+  border-radius: 10%;
+}
+
+.hTitle {
+  font-size: 50px;
+  margin: 0%;
+}
+
+.divBG {
+  display: flex;
+  justify-content: center;
+}
+
+.devIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #45a29e;
+  color: #45a29e;
+  margin: 15px;
+  /* border: 2px solid #1f2833;
+  border-radius: 12%; */
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.container1 {
+  background-color: #45a29e;
+}
+
+.aboutMe {
+  background-color: #45a29e;
+}
+.whoIam {
+  background-color: #45a29e;
+  font-size: 35px;
+  color: #c5c6c7 ;
+  font-weight: bolder;
+  
+ 
+}
+
+.projectCard {
+    background-color: #45a29e;
+    font-size: 25px;
     color: #c5c6c7;
+    
+}
+
+.myBio {
+    font-size: 25px;
+
 }

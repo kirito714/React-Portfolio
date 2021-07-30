@@ -1,0 +1,12 @@
+.mainCard {
+  display: flex;
+  background-color: #45a29e;
+  border-radius: 8%;
+  border: 10px solid #1f2833;
+  padding: 10px 50px;
+  margin: 10px 10px;
+  justify-content: center;
+
+ 
+}
+

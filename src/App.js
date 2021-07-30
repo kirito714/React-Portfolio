@@ -6,9 +6,9 @@ function App() {
   return (
     <div>
       <header>
-        <MyImage/>
-        <LandingPage />
+        <MyImage />
       </header>
+      <LandingPage />
     </div>
   );
 }
