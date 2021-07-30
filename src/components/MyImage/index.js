@@ -6,7 +6,7 @@ const MyImage = () => {
   return (
     <div className="mySelf">
       <div>
-      <img class="mePick" src={MyImage2} alt="Logo" />
+      <img className="mePick" src={MyImage2} alt="Logo" />
       <h1 className="myName">Joseph Amador</h1>
       </div>
     </div>

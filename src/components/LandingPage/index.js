@@ -37,8 +37,8 @@ export default function LandingPage() {
       <NavBarTabs
         currentPage={currentPage}
         handlePageChange={handlePageChange}
-        />
-        {/* calling the renderPage()*/}
+      />
+      {/* calling the renderPage()*/}
       <Card currentPage={renderPage()} />
 
       {/* {renderPage()} */}
