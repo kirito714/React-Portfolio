@@ -20,7 +20,7 @@ const Resume = () => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              Resume
+              Resume!
             </a>
           </div>
         </div>
