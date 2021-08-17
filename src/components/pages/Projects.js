@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="bGround flex-container">
           <div className="devIcon ">
             <img className="devIcon" src={devIcon} alt="Logo" />
-            <h1>Team Project</h1>
+            <h1>Project "Super Roster"</h1>
             <div className="projectCard">
               This was my first real project with a team, I learned to code yes,
               but learning to work as a team on the same project was probably
@@ -27,7 +27,25 @@ const Projects = () => {
               target="_blank "
               rel="noreferrer noopener"
             >
-              Heroku: Super Roster
+              Deployed: Heroku
+            </a>
+          </div>
+          <div className="devIcon ">
+            <img className="devIcon" src={devIcon} alt="Logo" />
+            <h1>Project "Events Near You"</h1>
+            <div className="projectCard">
+              My Final Project "Events Near you". i worked on this project with,
+              three other Awesome classmates. We worked through many challenges
+              and plan on working on future developments that we could not
+              implement due to time constraints.
+            </div>
+            <a
+              className="projectCard"
+              href="https://aqueous-peak-04279.herokuapp.com/"
+              target="_blank "
+              rel="noreferrer noopener"
+            >
+              Deployed: Heroku
             </a>
           </div>
           <div className="devIcon">
